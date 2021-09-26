@@ -16,7 +16,7 @@ March 23, 2022
 
 March 22, 2022
 
-[March 21, 2022](./march21.html).
+[March 21, 2022](./march21.html)
 
 ### Quiz
 
