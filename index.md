@@ -1,6 +1,6 @@
 ## 2022 Hong Kong Chief Executive Election
 
-This website provides you with the latest new regarding the 2022 Hong Kong Chief Executive Election!
+This website provides you with the latest news regarding the 2022 Hong Kong Chief Executive Election!
 
 ### News
 
@@ -18,7 +18,7 @@ March 22, 2022
 
 March 21, 2022
 
-### Take the quiz!
+### Quiz
 
 March 27, 2022
 
