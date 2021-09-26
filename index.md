@@ -18,7 +18,7 @@ March 22, 2022
 
 ### Quiz
 
-**You will receive ...**
+**Reminder: You will receive ...**
 
 March 27, 2022
 
