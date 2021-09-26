@@ -18,7 +18,7 @@ March 22, 2022
 
 ### Quiz
 
-**Reminder: The compensation you received is determined by the number of questions you answer correctly in each quiz**
+**You will receive ...**
 
 March 27, 2022
 
