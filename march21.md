@@ -2,7 +2,7 @@
 
 Source: TVB News 
 
-_Note: TVB News is one of the pro-Beijing media in Hong Kong, which means that ..._
+_Caution: TVB News is one of the pro-Beijing media in Hong Kong, which means that ..._
 
 ### 選委會選舉整體投票率近九成 約4380名選民投票
 
